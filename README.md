@@ -32,4 +32,4 @@ depending on your system.
 
 
 ## Licence
-MIT Licence
+GPL Licence
