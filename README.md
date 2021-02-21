@@ -21,7 +21,7 @@ or
 python3 -m http.server
 `
 depending on your system.
-3. Launch your browser with the URL returned by the command above. For example `http://localhost:8000/`.
+3. Launch your browser with the localhost and port number returned by the command above. For example `http://localhost:8000/`
 4. Enjoy !
 
 ## Ressources
