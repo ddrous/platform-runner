@@ -1,7 +1,7 @@
 # Platform Runner
 Simple platformer using the PhaserJS library. 
 
-The goal is simple: ___catch the gold star by jumping from platform to platform___. Hurry up, you only have 30 seconds ! 
+The goal is simple: ___catch the gold star by jumping from platform to platform___. Hurry up, you only have 30 seconds! 
 - Use the __SPACE__ button to jump; 
 - Use the __ARROW__ buttons to navigate;
 - Explore your keyboard to find hidden buttons 😉.
