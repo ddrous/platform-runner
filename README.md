@@ -6,12 +6,15 @@ The goal is simple: ___catch the gold star by jumping from platform to platform_
 - Use the __ARROW__ buttons to navigate;
 - Explore your keyboard to find hidden buttons 😉.
 
-## Screenshot
+## Screenshots
 
 <!-- ![Img1](img/screenshot_1.png) -->
 <!-- ![Img2](./img/screenshot_2.png =250x20) -->
-<img src="./img/screenshot_2.png" alt="GameScreenCapture" width="400"/>
+<!-- <img src="./img/screenshot_2.png" alt="GameScreenCapture" width="400"/> -->
 
+In game             |  Lost game
+:-------------------------:|:-------------------------:
+<img src="./img/screenshot_1.png" alt="GameScreenCapture" width="350"/>  |  <img src="./img/screenshot_2.png" alt="GameScreenCapture" width="350"/>
 
 
 ## Instructions
